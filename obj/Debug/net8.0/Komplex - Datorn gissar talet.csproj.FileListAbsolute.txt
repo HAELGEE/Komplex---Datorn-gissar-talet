@@ -1,0 +1,15 @@
+C:\Users\HAELGE\source\repos\Komplex - Datorn gissar talet\Komplex - Datorn gissar talet\bin\Debug\net8.0\Komplex - Datorn gissar talet.exe
+C:\Users\HAELGE\source\repos\Komplex - Datorn gissar talet\Komplex - Datorn gissar talet\bin\Debug\net8.0\Komplex - Datorn gissar talet.deps.json
+C:\Users\HAELGE\source\repos\Komplex - Datorn gissar talet\Komplex - Datorn gissar talet\bin\Debug\net8.0\Komplex - Datorn gissar talet.runtimeconfig.json
+C:\Users\HAELGE\source\repos\Komplex - Datorn gissar talet\Komplex - Datorn gissar talet\bin\Debug\net8.0\Komplex - Datorn gissar talet.dll
+C:\Users\HAELGE\source\repos\Komplex - Datorn gissar talet\Komplex - Datorn gissar talet\bin\Debug\net8.0\Komplex - Datorn gissar talet.pdb
+C:\Users\HAELGE\source\repos\Komplex - Datorn gissar talet\Komplex - Datorn gissar talet\obj\Debug\net8.0\Komplex - Datorn gissar talet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAELGE\source\repos\Komplex - Datorn gissar talet\Komplex - Datorn gissar talet\obj\Debug\net8.0\Komplex - Datorn gissar talet.AssemblyInfoInputs.cache
+C:\Users\HAELGE\source\repos\Komplex - Datorn gissar talet\Komplex - Datorn gissar talet\obj\Debug\net8.0\Komplex - Datorn gissar talet.AssemblyInfo.cs
+C:\Users\HAELGE\source\repos\Komplex - Datorn gissar talet\Komplex - Datorn gissar talet\obj\Debug\net8.0\Komplex - Datorn gissar talet.csproj.CoreCompileInputs.cache
+C:\Users\HAELGE\source\repos\Komplex - Datorn gissar talet\Komplex - Datorn gissar talet\obj\Debug\net8.0\Komplex - Datorn gissar talet.dll
+C:\Users\HAELGE\source\repos\Komplex - Datorn gissar talet\Komplex - Datorn gissar talet\obj\Debug\net8.0\refint\Komplex - Datorn gissar talet.dll
+C:\Users\HAELGE\source\repos\Komplex - Datorn gissar talet\Komplex - Datorn gissar talet\obj\Debug\net8.0\Komplex - Datorn gissar talet.pdb
+C:\Users\HAELGE\source\repos\Komplex - Datorn gissar talet\Komplex - Datorn gissar talet\obj\Debug\net8.0\Komplex - Datorn gissar talet.genruntimeconfig.cache
+C:\Users\HAELGE\source\repos\Komplex - Datorn gissar talet\Komplex - Datorn gissar talet\obj\Debug\net8.0\ref\Komplex - Datorn gissar talet.dll
+C:\Users\HAELGE\source\repos\Komplex - Datorn gissar talet\Komplex - Datorn gissar talet\obj\Debug\net8.0\Komplex - Datorn gissar talet.sourcelink.json
